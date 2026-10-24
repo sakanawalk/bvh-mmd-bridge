@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-24",
+  "revision": "r3",
+  "license": "LicenseRef-sakanawalk-FreeUse-NoRedistribution",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 106,
+      "sha256": "97b29e8ffc196dce3b80babb4871af5c077b53e36cbbf3ea062a30b3ef3e6d17"
+    },
+    {
+      "path": "app.py",
+      "bytes": 13435,
+      "sha256": "f4ff105c46f60c2c5dc391330481c2978c34ceeb0d00982e19aff8738c0b6179"
+    },
+    {
+      "path": "BUILD.txt",
+      "bytes": 653,
+      "sha256": "f3b4380bb3f609142f5b2904d4fef4f4ec1cbbc3366ead13eb3a2dd084e24156"
+    },
+    {
+      "path": "contact.py",
+      "bytes": 10422,
+      "sha256": "9519237e903a0e1d5422d4e963cee447b712cc293a2d5ab5fc81b14d3a3e42f7"
+    },
+    {
+      "path": "core.py",
+      "bytes": 21020,
+      "sha256": "d46fe46aee5a7683d048c9489b92cad4d4533479738ece556e5b4f5f1d5cedf1"
+    },
+    {
+      "path": "examples/make_sample.py",
+      "bytes": 2512,
+      "sha256": "f6b2336e99d646dc0a5e26276dbd0849027ba7985bcd71879fba0c524981b1b8"
+    },
+    {
+      "path": "GUIDE.txt",
+      "bytes": 4689,
+      "sha256": "373d2558695efbd5ec0c325cf95c68d49eea6ce8e3996ff6ad3a08b2172129fd"
+    },
+    {
+      "path": "jobs.py",
+      "bytes": 777,
+      "sha256": "dc6cee1f7e24e3b40686aba7200a5a5a84a555284682be031b76fb9309c416d5"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 3414,
+      "sha256": "19f49b47a77163d7afa7f1b2ecee0d531f98c059c1ed85560c3149879ce0985d"
+    },
+    {
+      "path": "LICENSE_CHANGE.txt",
+      "bytes": 311,
+      "sha256": "ee5a9bcd5c15435f8d97f1361d6c27d20a5f7e1ca3faf73e33798d9527f365c3"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2927,
+      "sha256": "7148b12e264d34befb97497ddd9eead827788ed527b266633b098bd4448f5da4"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 31,
+      "sha256": "f928563730722a04fc19e8665fcd5f8325b12a4fd129dfb69262605f7b824c13"
+    },
+    {
+      "path": "RIGHTS_REVIEW.txt",
+      "bytes": 6348,
+      "sha256": "0c47776bd1d2d995240d0e6f271bafb521fd83aa515f40b8fbab0366ba8394fb"
+    },
+    {
+      "path": "sample/sample.bvh",
+      "bytes": 394581,
+      "sha256": "8aea908e35b54f8cdc6843fa3aed37c61669749363d1dfbdaefb6a21eb9c7c33"
+    },
+    {
+      "path": "test_contact.py",
+      "bytes": 5096,
+      "sha256": "0c51907947f45522dc2d72d28ccf549adc23fa30ff52be00948e8b340a377b83"
+    },
+    {
+      "path": "test_core.py",
+      "bytes": 5326,
+      "sha256": "413206755d3329bcb75131b98c4246b24aa31f3a024280d013532de2d56add0f"
+    },
+    {
+      "path": "test_jobs.py",
+      "bytes": 1078,
+      "sha256": "92266ba9bdba0b9511d82417e8dbe2911018657459dc1f1e82f0de7f63e8f489"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 865,
+      "sha256": "97f62d227df273d5b35118089fad58a033e3d50450bf6eccf7bdb9e803ee989a"
+    },
+    {
+      "path": "利用条件.txt",
+      "bytes": 3414,
+      "sha256": "19f49b47a77163d7afa7f1b2ecee0d531f98c059c1ed85560c3149879ce0985d"
+    }
+  ]
+}
