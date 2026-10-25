@@ -9,7 +9,7 @@ from jobs import run_conversion
 
 class App:
     def __init__(self, root):
-        self.root=root; root.title('BVH2MMD  |  0.3.0-rc1 r5'); root.geometry('1000x860'); root.minsize(850,720)
+        self.root=root; root.title('BVH2MMD  |  0.3.0-rc1 r6'); root.geometry('1000x860'); root.minsize(850,720)
         self.events=queue.Queue(); self.busy=False; self.loaded=None; self.last_output=None
         self.bvh=tk.StringVar(); self.pmx=tk.StringVar(); self.output=tk.StringVar(value=str(Path.home()/'Documents'/'BVHBridge_Output'))
         self.scale=tk.StringVar(value='0'); self.height=tk.StringVar(value='0'); self.center=tk.StringVar(value='センター')
