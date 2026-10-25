@@ -1,7 +1,5 @@
 {
-  "date": "2026-10-24",
-  "revision": "r3",
-  "license": "LicenseRef-sakanawalk-FreeUse-NoRedistribution",
+  "revision": "r4",
   "files": [
     {
       "path": ".gitignore",
@@ -10,8 +8,8 @@
     },
     {
       "path": "app.py",
-      "bytes": 13435,
-      "sha256": "f4ff105c46f60c2c5dc391330481c2978c34ceeb0d00982e19aff8738c0b6179"
+      "bytes": 13413,
+      "sha256": "ce41dc92200012deb2f13503c4a2eafb7b2af29082baab1023c2d52a5e254759"
     },
     {
       "path": "BUILD.txt",
@@ -35,8 +33,8 @@
     },
     {
       "path": "GUIDE.txt",
-      "bytes": 4689,
-      "sha256": "373d2558695efbd5ec0c325cf95c68d49eea6ce8e3996ff6ad3a08b2172129fd"
+      "bytes": 4674,
+      "sha256": "cb7b89bbc42ca9b85ba41dbb7f0570654adb6316bbb054ea1dd411eca1362a36"
     },
     {
       "path": "jobs.py",
@@ -45,8 +43,8 @@
     },
     {
       "path": "LICENSE",
-      "bytes": 3414,
-      "sha256": "19f49b47a77163d7afa7f1b2ecee0d531f98c059c1ed85560c3149879ce0985d"
+      "bytes": 3403,
+      "sha256": "ecca2aa895726c243973e6172bb9c98880b704541d42327c10f09fc54733992f"
     },
     {
       "path": "LICENSE_CHANGE.txt",
@@ -55,8 +53,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 2927,
-      "sha256": "7148b12e264d34befb97497ddd9eead827788ed527b266633b098bd4448f5da4"
+      "bytes": 3070,
+      "sha256": "f50813d5c8c45a0c38ff1986134839a7ae46ff6b2a3d674417ae43523f93ba5d"
     },
     {
       "path": "requirements.txt",
@@ -65,8 +63,8 @@
     },
     {
       "path": "RIGHTS_REVIEW.txt",
-      "bytes": 6348,
-      "sha256": "0c47776bd1d2d995240d0e6f271bafb521fd83aa515f40b8fbab0366ba8394fb"
+      "bytes": 6337,
+      "sha256": "93d5abfd3b475f6b67d972368887b14534da8c52de1a352221085318b4a17bcf"
     },
     {
       "path": "sample/sample.bvh",
@@ -95,8 +93,8 @@
     },
     {
       "path": "利用条件.txt",
-      "bytes": 3414,
-      "sha256": "19f49b47a77163d7afa7f1b2ecee0d531f98c059c1ed85560c3149879ce0985d"
+      "bytes": 3403,
+      "sha256": "ecca2aa895726c243973e6172bb9c98880b704541d42327c10f09fc54733992f"
     }
   ]
 }

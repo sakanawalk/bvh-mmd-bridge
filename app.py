@@ -9,7 +9,7 @@ from jobs import run_conversion
 
 class App:
     def __init__(self, root):
-        self.root=root; root.title('BVH → MMD Bridge  |  0.3.0-rc1 公開実験版 r2'); root.geometry('1000x860'); root.minsize(850,720)
+        self.root=root; root.title('BVH2MMD  |  0.3.0-rc1 公開実験版 r4'); root.geometry('1000x860'); root.minsize(850,720)
         self.events=queue.Queue(); self.busy=False; self.loaded=None; self.last_output=None
         self.bvh=tk.StringVar(); self.pmx=tk.StringVar(); self.output=tk.StringVar(value=str(Path.home()/'Documents'/'BVHBridge_Output'))
         self.scale=tk.StringVar(value='0'); self.height=tk.StringVar(value='0'); self.center=tk.StringVar(value='センター')
@@ -18,7 +18,7 @@ class App:
         self.status=tk.StringVar(value='BVHとPMXを選んで「ボーンを確認」を押してください')
         self.controls=[]; self.rows={}
         outer=ttk.Frame(root,padding=18); outer.pack(fill='both',expand=True)
-        ttk.Label(outer,text='BVH → MMD Bridge',font=('Yu Gothic UI',23,'bold')).pack(anchor='w')
+        ttk.Label(outer,text='BVH2MMD',font=('Yu Gothic UI',23,'bold')).pack(anchor='w')
         ttk.Label(outer,text='BVH＋PMXから モデルの体格に合わせたVMDを作成',font=('Yu Gothic UI',11)).pack(anchor='w',pady=(0,14))
         paths=ttk.Frame(outer); paths.pack(fill='x'); paths.columnconfigure(1,weight=1)
         for i,(label,var,kind) in enumerate([('モーション BVH',self.bvh,'bvh'),('モデル PMX',self.pmx,'pmx'),('出力フォルダー',self.output,'folder')]):

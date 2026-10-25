@@ -1,10 +1,12 @@
+2026-10-25 r4: ソフト名をBVH2MMDへ変更しました。実行ファイルはBVH2MMD.exeです。変換処理と利用条件はr3と同じです。
+
 2026-10-24 r3: 本体の配布条件をsakanawalk Software License 1.0へ更新しました。処理プログラムと実行ファイルはr2と同一です。過去にMITで許諾済みの版・部分の権利は遡及して取り消しません。詳細はLICENSEまたはLICENSE.txtを参照してください。
 
-# BVH → MMD Bridge 0.3.0-rc1
+# BVH2MMD 0.3.0-rc1
 
 BVHと対象モデルのPMXから、体格に合わせた30fpsのVMDを生成するWindows向け実験版です。独立アプリで、MotionBuilder・Blender・MMD本体のインストールは変換処理に不要です。
 
-通常の利用はWindows ZIPをすべて展開してBVHBridge.exeを起動し、GUIDE.txtまたは「はじめに.txt」に沿って操作してください。元のBVH・PMXは変更しません。
+通常の利用はWindows ZIPをすべて展開してBVH2MMD.exeを起動し、GUIDE.txtまたは「はじめに.txt」に沿って操作してください。元のBVH・PMXは変更しません。
 
 ## ソースから起動
 
